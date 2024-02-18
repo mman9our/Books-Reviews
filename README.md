@@ -2,10 +2,6 @@
 
 ![Thumbnail](https://github.com/mman9our/Books-Reviews/assets/72463762/e519f553-aecc-48b2-9944-b4bfe101b379)
 
-Demo
----
-🌍 Live Demo : 
-
 
 How to run
 ---
