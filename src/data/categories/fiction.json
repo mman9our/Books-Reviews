@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "image": "/src/assets/images/fiction/1.jpg",
+      "title": "Maecenas",
+      "author": "Vestibulum turpis",
+      "reviewedBy": "Etiam feugiat",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla urna sit amet sapien dignissim, ac tempus libero aliquam. Aliquam erat volutpat."
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/images/fiction/2.jpg",
+      "title": "Nam",
+      "author": "Fusce vulputate",
+      "reviewedBy": "Nunc nec",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer dignissim justo vel lacus sollicitudin, a malesuada elit venenatis. Morbi in justo ac metus viverra fringilla."
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/images/fiction/3.png",
+      "title": "Suspendisse",
+      "author": "Suspendisse pulvinar",
+      "reviewedBy": "Phasellus volutpat",
+      "description": "Vestibulum auctor maximus magna non pretium. Nam at consectetur dui. Ut lacinia, ligula ut aliquet ultricies, purus enim ultrices diam, nec faucibus magna tortor at nibh."
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/images/fiction/4.jpg",
+      "title": "Maecenas",
+      "author": "Vestibulum turpis",
+      "reviewedBy": "Etiam feugiat",
+      "description": "In in mauris efficitur, ultricies libero sed, varius libero. Donec vel est nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In vel felis vitae ante fermentum aliquet."
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/images/fiction/5.jpg",
+      "title": "Nam",
+      "author": "Fusce vulputate",
+      "reviewedBy": "Nunc nec",
+      "description": "Aliquam vehicula nunc eget odio interdum dictum. Maecenas facilisis neque vitae consectetur. Nullam dictum nibh ac leo feugiat, id aliquet elit vehicula."
+    },
+    {
+      "id": 6,
+      "image": "/src/assets/images/fiction/6.jpeg",
+      "title": "Suspendisse",
+      "author": "Suspendisse pulvinar",
+      "reviewedBy": "Phasellus volutpat",
+      "description": "Phasellus ullamcorper nisi vel urna vehicula, non vulputate eros tristique. Integer condimentum magna eu sapien blandit, non dapibus libero fermentum. Nulla facilisi."
+    },
+    {
+      "id": 7,
+      "image": "/src/assets/images/fiction/7.jpg",
+      "title": "Maecenas",
+      "author": "Vestibulum turpis",
+      "reviewedBy": "Etiam feugiat",
+      "description": "Curabitur a efficitur tortor. Nulla congue consequat mi nec posuere. Mauris a magna eu nulla congue convallis."
+    },
+    {
+      "id": 8,
+      "image": "/src/assets/images/fiction/8.jpg",
+      "title": "Nam",
+      "author": "Fusce vulputate",
+      "reviewedBy": "Nunc nec",
+      "description": "Duis laoreet mi eget sem lacinia, eget convallis justo vestibulum. Vivamus commodo est vitae enim posuere, a ultricies lectus malesuada. Nam at urna vel nunc tempus semper."
+    },
+    {
+      "id": 9,
+      "image": "/src/assets/images/fiction/9.jpg",
+      "title": "Suspendisse",
+      "author": "Suspendisse pulvinar",
+      "reviewedBy": "Phasellus volutpat",
+      "description": "Sed nec quam euismod, tempus velit sed, vestibulum justo. Integer luctus odio a nibh consectetur, vel eleifend nunc tristique. Morbi ultricies nisi ut gravida condimentum."
+    }
+  ]
+}

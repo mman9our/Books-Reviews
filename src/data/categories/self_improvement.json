@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "image": "/src/assets/images/self_improvement/1.jpg",
+      "title": "Maecenas",
+      "author": "Vestibulum turpis",
+      "reviewedBy": "Etiam feugiat",
+      "description": "Ut leo. Aenean imperdiet. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.. Morbi ac felis."
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/images/self_improvement/2.jpg",
+      "title": "Nam",
+      "author": "Fusce vulputate",
+      "reviewedBy": "Nunc nec",
+      "description": "Nullam vel sem. Sed fringilla mauris sit amet nibh. Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui, id egestas quam mauris ut lacus. Praesent congue erat at massa. Nunc nonummy metus."
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/images/self_improvement/3.jpg",
+      "title": "Suspendisse",
+      "author": "Suspendisse pulvinar",
+      "reviewedBy": "Phasellus volutpat",
+      "description": "Etiam ultricies nisi vel augue. Integer tincidunt. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Suspendisse eu ligula."
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/images/self_improvement/4.jpg",
+      "title": "Maecenas",
+      "author": "Vestibulum turpis",
+      "reviewedBy": "Etiam feugiat",
+      "description": "Nulla sit amet est. Aliquam lobortis. Aliquam erat volutpat. Fusce commodo aliquam arcu."
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/images/self_improvement/5.jpg",
+      "title": "Nam",
+      "author": "Fusce vulputate",
+      "reviewedBy": "Nunc nec",
+      "description": "Phasellus accumsan cursus velit. Etiam imperdiet imperdiet orci. Integer tincidunt."
+    },
+    {
+      "id": 6,
+      "image": "/src/assets/images/self_improvement/6.jpg",
+      "title": "Suspendisse",
+      "author": "Suspendisse pulvinar",
+      "reviewedBy": "Phasellus volutpat",
+      "description": "In hac habitasse platea dictumst. In consectetuer turpis ut velit. Nam pretium turpis et arcu. Quisque rutrum."
+    },
+    {
+      "id": 7,
+      "image": "/src/assets/images/self_improvement/7.jpg",
+      "title": "Maecenas",
+      "author": "Vestibulum turpis",
+      "reviewedBy": "Etiam feugiat",
+      "description": "Nam eget dui. Aenean ut eros et nisl sagittis vestibulum. Nunc sed turpis. Curabitur turpis."
+    },
+    {
+      "id": 8,
+      "image": "/src/assets/images/self_improvement/8.jpg",
+      "title": "Nam",
+      "author": "Fusce vulputate",
+      "reviewedBy": "Nunc nec",
+      "description": "Etiam imperdiet imperdiet orci. Sed libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent metus tellus, elementum eu, semper a, adipiscing nec, purus."
+    },
+    {
+      "id": 9,
+      "image": "/src/assets/images/self_improvement/9.jpg",
+      "title": "Suspendisse",
+      "author": "Suspendisse pulvinar",
+      "reviewedBy": "Phasellus volutpat",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In ut quam vitae odio lacinia tincidunt."
+    }
+  ]
+}

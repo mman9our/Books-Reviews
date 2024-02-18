@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Audio Books",
+      "image": "/src/assets/icons/headphones.svg",
+      "description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
+    },
+    {
+      "id": 2,
+      "title": "Business Books",
+      "image": "/src/assets/icons/business-bag.svg",
+      "description": "Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus."
+    },
+    {
+      "id": 3,
+      "title": "Children's Books",
+      "image": "/src/assets/icons/mickey-mouse.svg",
+      "description": "Aenean vulputate eleifend tellus. Nulla facilisi."
+    },
+    {
+      "id": 4,
+      "title": "Cooking",
+      "image": "/src/assets/icons/pot.svg",
+      "description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
+    },
+    {
+      "id": 5,
+      "title": "Lifestyles",
+      "image": "/src/assets/icons/lifestyle.svg",
+      "description": "Aenean vulputate eleifend tellus. Nulla facilisi."
+    },
+    {
+      "id": 6,
+      "title": "Mystry",
+      "image": "/src/assets/icons/glasses.svg",
+      "description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
+    },
+
+    {
+      "id": 7,
+      "title": "Romance",
+      "image": "/src/assets/icons/heart.svg",
+      "description": "Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus."
+    },
+
+    {
+      "id": 8,
+      "title": "Science Edition",
+      "image": "/src/assets/icons/microscope.svg",
+      "description": "Aenean vulputate eleifend tellus. Nulla facilisi."
+    }
+  ]
+}
