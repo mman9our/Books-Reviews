@@ -1,11 +1,29 @@
 <p align="center"> Books Reviews Web Application </p>
 
-![Thumbnail](https://github.com/mman9our/Books-Reviews/assets/72463762/cf29648e-94e2-4719-82a2-26febe34d9bf)
+![Thumbnail](https://github.com/mman9our/Books-Reviews/assets/72463762/e519f553-aecc-48b2-9944-b4bfe101b379)
 
 Demo
 ---
 🌍 Live Demo : 
 
+
+How to run
+---
+* Install dependencies: npm install
+* Run the app: npm run dev
+* Build the app: npm run build
+* Test the app: npm run test
+
+Features
+---
+* ✅ Browse Categories Grid Section.
+* ✅ HTML Semantics.
+* ✅ Following Design Guidelines.
+* ✅ SEO Practices Implementation.
+* ✅ Usage of TypeScript.
+* ✅ Responsive  Design.
+* ✅ Single Book Page.
+  
 Technologies Used
 ---
 * 🖥️ Front-end Development: Using ReactJs, TypeScript and MUI Library to create an interactive and user-friendly web app design.
