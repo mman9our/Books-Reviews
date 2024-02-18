@@ -1,3 +1,34 @@
+<p align="center"> Books Reviews Web Application </p>
+
+![Thumbnail](https://github.com/mman9our/Books-Reviews/assets/72463762/cf29648e-94e2-4719-82a2-26febe34d9bf)
+
+Demo
+---
+🌍 Live Demo : 
+
+Technologies Used
+---
+* 🖥️ Front-end Development: Using ReactJs, TypeScript and MUI Library to create an interactive and user-friendly web app design.
+* 🛸 Version Control: Using Git and GitHub to manage the source code and track changes made to the project.
+* ♿ Accessibility: Ensuring that the web app is accessible to users with disabilities by following web accessibility guidelines and best practices.
+* 🌐 SEO: Implementing search engine optimization techniques to improve the web app's visibility and ranking on search engines.
+* 📱 Responsive Design: Creating a responsive design that works seamlessly across different devices and screen sizes.
+* 📡 PWA support: Adding progressive web app functionality to allow users to install the app on their mobile devices and use it offline.
+
+
+Authors
+---
+* 🧑‍💻Mohamed Mansour
+
+Contributors
+---
+Contributions are always welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+Thank you for supporting
+---
+![download](https://www.xngage.com/xngage-logo_og.png)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
