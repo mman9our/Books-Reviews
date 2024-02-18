@@ -10,9 +10,9 @@ Demo
 How to run
 ---
 * Install dependencies: ```npm install```
-* Run the app: npm run dev
-* Build the app: npm run build
-* Test the app: npm run test
+* Run the app: ```npm run dev```
+* Build the app: ```npm run build```
+* Test the app: ```npm run test```
 
 Features
 ---
