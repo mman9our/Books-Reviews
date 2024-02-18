@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, Button, Grid, Typography } from "@mui/material";
 import Lottie from "react-lottie";
 import MaintenanceLottieFile from "../../assets/lottie/BuildPage.json";

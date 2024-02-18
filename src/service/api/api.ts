@@ -1,5 +1,5 @@
 export const fetchPopularCategories = () =>
-  fetch("/src/data/categories.json")
+  fetch("src/data/categories.json")
     .then((response) => response.json())
     .catch((error) => {
       console.error("Error fetching categories:", error);
@@ -7,7 +7,7 @@ export const fetchPopularCategories = () =>
 
 export const fetchBooksByCategory = async (category: string) => {
   try {
-    const response = await fetch(`/src/data/categories/${category}.json`);
+    const response = await fetch(`src/data/categories/${category}.json`);
     if (!response.ok) {
       throw new Error("Failed to fetch books");
     }
